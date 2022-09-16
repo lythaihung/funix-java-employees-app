@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class HumanResources {
+public class Main {
     //create input for all program
     static Scanner sc=new Scanner(System.in);
 
